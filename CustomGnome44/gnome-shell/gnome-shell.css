@@ -576,7 +576,8 @@ StEntry StLabel.hint-text {
 .osd-monitor-label,
 .osd-window {
   color: #ffffff;
-  background-color: #353535;
+  /* background-color: #353535; */
+  background-color: #1a1a1a;
   border: 1px solid rgba(255, 255, 255, 0.02);
   border-radius: 999px;
   padding: 12px;
