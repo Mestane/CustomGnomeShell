@@ -581,6 +581,7 @@ StEntry StLabel.hint-text {
   border: 1px solid rgba(255, 255, 255, 0.02);
   border-radius: 999px;
   padding: 12px;
+  font-style: italic;
 }
 
 .lg-dialog StEntry {
@@ -2286,6 +2287,7 @@ StScrollBar StButton#hhandle:active {
 /* OSD */
 .osd-window {
   text-align: center;
+  /* font-style: italic; */
   font-weight: bold;
   spacing: 12px;
   padding: 12px 18px;
