@@ -4,17 +4,15 @@
 
 ### Gradience
 
-https://github.com/GradienceTeam/Gradience   
+https://github.com/GradienceTeam/Gradience
 
-gnome-purple-custom-css.json file import to Gradience 
+gnome-purple-custom-css.json file import to Gradience
 
 ---
 
-
-
 #### Gnome Shell (Custom)
 
-add **<mark>*CustomGnome44*</mark>** folder **~/.themes/** 
+add **<mark>_CustomGnome44_</mark>** folder **~/.themes/**
 
 #### SCREENSHOTS
 
